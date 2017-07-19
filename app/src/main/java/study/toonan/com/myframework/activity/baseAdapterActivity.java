@@ -76,6 +76,7 @@ public class baseAdapterActivity extends AppCompatActivity {
 			totalPages = listHttpResult.getTotalPages();
 			return LoadingPage.LoadResult.SUCCESS;
 		}
+
 		return LoadingPage.LoadResult.ERROR;
 	}
 
