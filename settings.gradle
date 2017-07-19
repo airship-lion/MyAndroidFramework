@@ -1,0 +1,4 @@
+include ':app'
+include 'EBase'
+project(':EBase').projectDir = new File('../EBase/app')
+include ':googlePlay'

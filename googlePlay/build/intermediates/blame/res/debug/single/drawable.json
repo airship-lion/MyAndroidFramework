@@ -1,0 +1,134 @@
+[
+    {
+        "merged": "C:\\soft\\Android\\AndroidStudioProjects\\MyFramework\\googlePlay\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_clear_holo_light.xml",
+        "source": "C:\\soft\\Android\\AndroidStudioProjects\\MyFramework\\googlePlay\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\19.1.0\\res\\drawable\\abc_ic_clear_holo_light.xml"
+    },
+    {
+        "merged": "C:\\soft\\Android\\AndroidStudioProjects\\MyFramework\\googlePlay\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_background_transition_holo_dark.xml",
+        "source": "C:\\soft\\Android\\AndroidStudioProjects\\MyFramework\\googlePlay\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\19.1.0\\res\\drawable\\abc_list_selector_background_transition_holo_dark.xml"
+    },
+    {
+        "merged": "C:\\soft\\Android\\AndroidStudioProjects\\MyFramework\\googlePlay\\build\\intermediates\\res\\merged\\debug\\drawable\\btn_bg.xml",
+        "source": "C:\\soft\\Android\\AndroidStudioProjects\\MyFramework\\googlePlay\\src\\main\\res\\drawable\\btn_bg.xml"
+    },
+    {
+        "merged": "C:\\soft\\Android\\AndroidStudioProjects\\MyFramework\\googlePlay\\build\\intermediates\\res\\merged\\debug\\drawable\\menu_icon_bg.xml",
+        "source": "C:\\soft\\Android\\AndroidStudioProjects\\MyFramework\\googlePlay\\src\\main\\res\\drawable\\menu_icon_bg.xml"
+    },
+    {
+        "merged": "C:\\soft\\Android\\AndroidStudioProjects\\MyFramework\\googlePlay\\build\\intermediates\\res\\merged\\debug\\drawable\\progress_small.xml",
+        "source": "C:\\soft\\Android\\AndroidStudioProjects\\MyFramework\\googlePlay\\src\\main\\res\\drawable\\progress_small.xml"
+    },
+    {
+        "merged": "C:\\soft\\Android\\AndroidStudioProjects\\MyFramework\\googlePlay\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_textfield_searchview_right_holo_dark.xml",
+        "source": "C:\\soft\\Android\\AndroidStudioProjects\\MyFramework\\googlePlay\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\19.1.0\\res\\drawable\\abc_textfield_searchview_right_holo_dark.xml"
+    },
+    {
+        "merged": "C:\\soft\\Android\\AndroidStudioProjects\\MyFramework\\googlePlay\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_holo_light.xml",
+        "source": "C:\\soft\\Android\\AndroidStudioProjects\\MyFramework\\googlePlay\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\19.1.0\\res\\drawable\\abc_list_selector_holo_light.xml"
+    },
+    {
+        "merged": "C:\\soft\\Android\\AndroidStudioProjects\\MyFramework\\googlePlay\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_tab_indicator_ab_holo.xml",
+        "source": "C:\\soft\\Android\\AndroidStudioProjects\\MyFramework\\googlePlay\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\19.1.0\\res\\drawable\\abc_tab_indicator_ab_holo.xml"
+    },
+    {
+        "merged": "C:\\soft\\Android\\AndroidStudioProjects\\MyFramework\\googlePlay\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_textfield_searchview_holo_light.xml",
+        "source": "C:\\soft\\Android\\AndroidStudioProjects\\MyFramework\\googlePlay\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\19.1.0\\res\\drawable\\abc_textfield_searchview_holo_light.xml"
+    },
+    {
+        "merged": "C:\\soft\\Android\\AndroidStudioProjects\\MyFramework\\googlePlay\\build\\intermediates\\res\\merged\\debug\\drawable\\progress_big.xml",
+        "source": "C:\\soft\\Android\\AndroidStudioProjects\\MyFramework\\googlePlay\\src\\main\\res\\drawable\\progress_big.xml"
+    },
+    {
+        "merged": "C:\\soft\\Android\\AndroidStudioProjects\\MyFramework\\googlePlay\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_search_dropdown_dark.xml",
+        "source": "C:\\soft\\Android\\AndroidStudioProjects\\MyFramework\\googlePlay\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\19.1.0\\res\\drawable\\abc_search_dropdown_dark.xml"
+    },
+    {
+        "merged": "C:\\soft\\Android\\AndroidStudioProjects\\MyFramework\\googlePlay\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_spinner_ab_holo_dark.xml",
+        "source": "C:\\soft\\Android\\AndroidStudioProjects\\MyFramework\\googlePlay\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\19.1.0\\res\\drawable\\abc_spinner_ab_holo_dark.xml"
+    },
+    {
+        "merged": "C:\\soft\\Android\\AndroidStudioProjects\\MyFramework\\googlePlay\\build\\intermediates\\res\\merged\\debug\\drawable\\progress_btn.xml",
+        "source": "C:\\soft\\Android\\AndroidStudioProjects\\MyFramework\\googlePlay\\src\\main\\res\\drawable\\progress_btn.xml"
+    },
+    {
+        "merged": "C:\\soft\\Android\\AndroidStudioProjects\\MyFramework\\googlePlay\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_drawer.xml",
+        "source": "C:\\soft\\Android\\AndroidStudioProjects\\MyFramework\\googlePlay\\src\\main\\res\\drawable\\ic_drawer.xml"
+    },
+    {
+        "merged": "C:\\soft\\Android\\AndroidStudioProjects\\MyFramework\\googlePlay\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_search_dropdown_light.xml",
+        "source": "C:\\soft\\Android\\AndroidStudioProjects\\MyFramework\\googlePlay\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\19.1.0\\res\\drawable\\abc_search_dropdown_light.xml"
+    },
+    {
+        "merged": "C:\\soft\\Android\\AndroidStudioProjects\\MyFramework\\googlePlay\\build\\intermediates\\res\\merged\\debug\\drawable\\grid_item_bg.xml",
+        "source": "C:\\soft\\Android\\AndroidStudioProjects\\MyFramework\\googlePlay\\src\\main\\res\\drawable\\grid_item_bg.xml"
+    },
+    {
+        "merged": "C:\\soft\\Android\\AndroidStudioProjects\\MyFramework\\googlePlay\\build\\intermediates\\res\\merged\\debug\\drawable\\ratingbar_small.xml",
+        "source": "C:\\soft\\Android\\AndroidStudioProjects\\MyFramework\\googlePlay\\src\\main\\res\\drawable\\ratingbar_small.xml"
+    },
+    {
+        "merged": "C:\\soft\\Android\\AndroidStudioProjects\\MyFramework\\googlePlay\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_clear.xml",
+        "source": "C:\\soft\\Android\\AndroidStudioProjects\\MyFramework\\googlePlay\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\19.1.0\\res\\drawable\\abc_ic_clear.xml"
+    },
+    {
+        "merged": "C:\\soft\\Android\\AndroidStudioProjects\\MyFramework\\googlePlay\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_holo_dark.xml",
+        "source": "C:\\soft\\Android\\AndroidStudioProjects\\MyFramework\\googlePlay\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\19.1.0\\res\\drawable\\abc_list_selector_holo_dark.xml"
+    },
+    {
+        "merged": "C:\\soft\\Android\\AndroidStudioProjects\\MyFramework\\googlePlay\\build\\intermediates\\res\\merged\\debug\\drawable\\progress.xml",
+        "source": "C:\\soft\\Android\\AndroidStudioProjects\\MyFramework\\googlePlay\\src\\main\\res\\drawable\\progress.xml"
+    },
+    {
+        "merged": "C:\\soft\\Android\\AndroidStudioProjects\\MyFramework\\googlePlay\\build\\intermediates\\res\\merged\\debug\\drawable\\list_item_bg.xml",
+        "source": "C:\\soft\\Android\\AndroidStudioProjects\\MyFramework\\googlePlay\\src\\main\\res\\drawable\\list_item_bg.xml"
+    },
+    {
+        "merged": "C:\\soft\\Android\\AndroidStudioProjects\\MyFramework\\googlePlay\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_textfield_searchview_holo_dark.xml",
+        "source": "C:\\soft\\Android\\AndroidStudioProjects\\MyFramework\\googlePlay\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\19.1.0\\res\\drawable\\abc_textfield_searchview_holo_dark.xml"
+    },
+    {
+        "merged": "C:\\soft\\Android\\AndroidStudioProjects\\MyFramework\\googlePlay\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_item_background_holo_dark.xml",
+        "source": "C:\\soft\\Android\\AndroidStudioProjects\\MyFramework\\googlePlay\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\19.1.0\\res\\drawable\\abc_item_background_holo_dark.xml"
+    },
+    {
+        "merged": "C:\\soft\\Android\\AndroidStudioProjects\\MyFramework\\googlePlay\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_spinner_ab_holo_light.xml",
+        "source": "C:\\soft\\Android\\AndroidStudioProjects\\MyFramework\\googlePlay\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\19.1.0\\res\\drawable\\abc_spinner_ab_holo_light.xml"
+    },
+    {
+        "merged": "C:\\soft\\Android\\AndroidStudioProjects\\MyFramework\\googlePlay\\build\\intermediates\\res\\merged\\debug\\drawable\\indicator.xml",
+        "source": "C:\\soft\\Android\\AndroidStudioProjects\\MyFramework\\googlePlay\\src\\main\\res\\drawable\\indicator.xml"
+    },
+    {
+        "merged": "C:\\soft\\Android\\AndroidStudioProjects\\MyFramework\\googlePlay\\build\\intermediates\\res\\merged\\debug\\drawable\\menu_item_bg.xml",
+        "source": "C:\\soft\\Android\\AndroidStudioProjects\\MyFramework\\googlePlay\\src\\main\\res\\drawable\\menu_item_bg.xml"
+    },
+    {
+        "merged": "C:\\soft\\Android\\AndroidStudioProjects\\MyFramework\\googlePlay\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_item_background_holo_light.xml",
+        "source": "C:\\soft\\Android\\AndroidStudioProjects\\MyFramework\\googlePlay\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\19.1.0\\res\\drawable\\abc_item_background_holo_light.xml"
+    },
+    {
+        "merged": "C:\\soft\\Android\\AndroidStudioProjects\\MyFramework\\googlePlay\\build\\intermediates\\res\\merged\\debug\\drawable\\list_item_action_bg.xml",
+        "source": "C:\\soft\\Android\\AndroidStudioProjects\\MyFramework\\googlePlay\\src\\main\\res\\drawable\\list_item_action_bg.xml"
+    },
+    {
+        "merged": "C:\\soft\\Android\\AndroidStudioProjects\\MyFramework\\googlePlay\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_background_transition_holo_light.xml",
+        "source": "C:\\soft\\Android\\AndroidStudioProjects\\MyFramework\\googlePlay\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\19.1.0\\res\\drawable\\abc_list_selector_background_transition_holo_light.xml"
+    },
+    {
+        "merged": "C:\\soft\\Android\\AndroidStudioProjects\\MyFramework\\googlePlay\\build\\intermediates\\res\\merged\\debug\\drawable\\bg_tab_text.xml",
+        "source": "C:\\soft\\Android\\AndroidStudioProjects\\MyFramework\\googlePlay\\src\\main\\res\\drawable\\bg_tab_text.xml"
+    },
+    {
+        "merged": "C:\\soft\\Android\\AndroidStudioProjects\\MyFramework\\googlePlay\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_textfield_searchview_right_holo_light.xml",
+        "source": "C:\\soft\\Android\\AndroidStudioProjects\\MyFramework\\googlePlay\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\19.1.0\\res\\drawable\\abc_textfield_searchview_right_holo_light.xml"
+    },
+    {
+        "merged": "C:\\soft\\Android\\AndroidStudioProjects\\MyFramework\\googlePlay\\build\\intermediates\\res\\merged\\debug\\drawable\\detail_btn.xml",
+        "source": "C:\\soft\\Android\\AndroidStudioProjects\\MyFramework\\googlePlay\\src\\main\\res\\drawable\\detail_btn.xml"
+    },
+    {
+        "merged": "C:\\soft\\Android\\AndroidStudioProjects\\MyFramework\\googlePlay\\build\\intermediates\\res\\merged\\debug\\drawable\\progressbar.xml",
+        "source": "C:\\soft\\Android\\AndroidStudioProjects\\MyFramework\\googlePlay\\src\\main\\res\\drawable\\progressbar.xml"
+    }
+]
